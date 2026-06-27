@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "ziwei-doushu",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "紫微斗數 skill — chart calculation + reading methodology for Claude Code",
   "owner": {
     "name": "dorara",
@@ -11,7 +11,7 @@
     {
       "name": "ziwei-doushu",
       "description": "紫微斗數 (Purple Star Astrology) — 排盤 / 解盤 / 飛化 / 14 主星 / 12 宮位 / 四化 / 大限 / 流年",
-      "version": "0.1.1",
+      "version": "0.2.0",
       "source": "./",
       "category": "astrology",
       "author": {

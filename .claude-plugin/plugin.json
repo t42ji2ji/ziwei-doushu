@@ -1,7 +1,7 @@
 {
   "name": "ziwei-doushu",
   "description": "紫微斗數 (Purple Star Astrology) skill for Claude Code — chart calculation, 解盤 reading methodology, 飛化 analysis, and 14 主星 × 12 宮位 × 四化 interpretation. Emphasis on practical reading over rote chart computation.",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "author": {
     "name": "dorara",
     "url": "https://github.com/t42ji2ji"
